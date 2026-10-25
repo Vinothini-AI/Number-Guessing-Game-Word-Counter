@@ -1,0 +1,4 @@
+Python is a popular programming language.
+Python is useful for data analysis and software development.
+Learning Python helps students build programming skills.
+Programming with Python is simple and powerful.
